@@ -11,3 +11,5 @@ streamlit.caption("This is the Caption")
 streamlit.text("This is the Text")
 
 streamlit.code("a=123, b=234, c=a+b")
+
+streamlit.markdown(":bowtie:")
